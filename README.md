@@ -3,7 +3,7 @@
 <img src="assets/readme.jpg" alt="Project Banner" width="100%">
 <img src="assets/keylog.jpg" alt="Project Banner" width="100%">
 
-**WARNING: THIS PROJECT IS CREATED FOR EDUCATIONAL PURPOSES AND TESTING IN A CONTROLLED LAB ENVIRONMENT ONLY. ABSOLUTELY DO NOT USE FOR ANY OTHER PURPOSE, ESPECIALLY ILLEGAL ACTIVITIES OR PRIVACY VIOLATIONS.**
+**⚠️WARNING: THIS PROJECT IS CREATED FOR EDUCATIONAL PURPOSES AND TESTING IN A CONTROLLED LAB ENVIRONMENT ONLY. ABSOLUTELY DO NOT USE FOR ANY OTHER PURPOSE, ESPECIALLY ILLEGAL ACTIVITIES OR PRIVACY VIOLATIONS.**
 
 **I AM NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROJECT.**
 
@@ -96,7 +96,7 @@ project_folder/
   ```
 
 ### 3. Results:
-- **Keylogger** will send keystroke logs (every 20 keys) to Discord webhook, including public IP, local IP, and other information.
+- **Keylogger** will send keystroke logs (every 30 keys) to Discord webhook, including public IP, local IP, and other information.
 - **Clipboard watcher** will send clipboard content (text or images) when changes occur, along with public IP and local IP.
 
 ## Ethical and Legal Warning
@@ -131,7 +131,7 @@ If you have questions, contact the supervising instructor or lab manager.
 
 # Keylogger và Clipboard Watcher (Dự án học tập)
 
-**LƯU Ý: DỰ ÁN NÀY ĐƯỢC THỰC HIỆN CHỈ VỚI MỤC ĐÍCH HỌC TẬP VÀ THỬ NGHIỆM TRONG MÔI TRƯỜNG LAB KIỂM SOÁT. TUYỆT ĐỐI KHÔNG SỬ DỤNG CHO BẤT KỲ MỤC ĐÍCH KHÁC, ĐẶC BIỆT LÀ CÁC HÀNH VI VI PHẠM PHÁP LUẬT HOẶC XÂM PHẠM QUYỀN RIÊNG TƯ.**
+**⚠️LƯU Ý: DỰ ÁN NÀY ĐƯỢC THỰC HIỆN CHỈ VỚI MỤC ĐÍCH HỌC TẬP VÀ THỬ NGHIỆM TRONG MÔI TRƯỜNG LAB KIỂM SOÁT. TUYỆT ĐỐI KHÔNG SỬ DỤNG CHO BẤT KỲ MỤC ĐÍCH KHÁC, ĐẶC BIỆT LÀ CÁC HÀNH VI VI PHẠM PHÁP LUẬT HOẶC XÂM PHẠM QUYỀN RIÊNG TƯ.**
 
 **TÔI KHÔNG CHỊU TRÁCH NHIỆM VỚI BẤT KỲ HÀNH VI SỬ DỤNG SAI MỤC ĐÍCH CỦA DỰ ÁN NÀY.**
 
@@ -217,14 +217,14 @@ project_folder/
   ```
   > **Lưu ý**: Nếu dùng macOS/Linux, thay `;` bằng `:` trong `--add-data`.
 
-- File `.exe` sẽ được tạo trong thư mục `dist/` (ví dụ: `dist/main.exe`).
+- File `.exe` sẽ được tạo trong thư mục `dist/` (ví dụ: `dist/liemdai.exe`).
 - Chạy file `.exe` bằng cách nhấp đúp hoặc qua command line:
   ```powershell
-  .\dist\main.exe
+  .\dist\liemdai.exe
   ```
 
 ### 3. Kết quả:
-- **Keylogger** sẽ gửi log phím bấm (mỗi 20 phím) đến Discord webhook, bao gồm public IP, local IP, và các thông tin khác.
+- **Keylogger** sẽ gửi log phím bấm (mỗi 30 phím) đến Discord webhook, bao gồm public IP, local IP, và các thông tin khác.
 - **Clipboard watcher** sẽ gửi nội dung clipboard (văn bản hoặc hình ảnh) khi có thay đổi, kèm theo public IP và local IP.
 
 ## Cảnh báo đạo đức và pháp lý
