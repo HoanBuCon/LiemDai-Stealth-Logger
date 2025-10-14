@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# --- Virtual env ---
+mal_env/
+venv/
+
+# --- Environment ---
+.env
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db
+
+# --- Editor config ---
+.vscode/
+.idea/
+
+# --- Distribution / packaging ---
+dist/
+build/
