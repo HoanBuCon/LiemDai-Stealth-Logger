@@ -1,4 +1,4 @@
-# Keylogger and Clipboard Watcher (Educational Project)
+# Keylogger and Clipboard Hijacking (Educational Project)
 
 <img src="assets/readme.jpg" alt="Project Banner" width="100%">
 <img src="assets/keylog.jpg" alt="Project Banner" width="100%">
@@ -8,9 +8,9 @@
 **I AM NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROJECT.**
 
 ## Project Description
-This is an educational cybersecurity lab project that simulates how keyloggers and clipboard watchers work. It includes:
+This is an educational cybersecurity lab project that simulates how keyloggers and clipboard hijacking work. It includes:
 - **Keylogger**: Records keystrokes and sends logs via Discord webhook.
-- **Clipboard Watcher**: Monitors clipboard content (text or images) and sends via Discord webhook.
+- **Clipboard Hijacking**: Monitors clipboard content (text or images) and sends via Discord webhook.
 - **Main Program**: Combines both functions and runs them simultaneously.
 
 The project is written in Python and can be packaged into a single `.exe` file for Windows.
@@ -20,7 +20,7 @@ The project is written in Python and can be packaged into a single `.exe` file f
 project_folder/
 ├── src/
 │   ├── key_logger.py        # Keylogger code
-│   ├── send_clipboard.py    # Clipboard watcher code
+│   ├── send_clipboard.py    # Clipboard hijacking code
 │   ├── ping_user.py         # User ping code
 │   └── send_img.py          # Image sending code
 ├── main.py                  # Main file to run both functions
@@ -73,7 +73,7 @@ project_folder/
   ```bash
   python main.py
   ```
-- The program will start both keylogger and clipboard watcher, sending logs to Discord webhook.
+- The program will start both keylogger and clipboard hijacking, sending logs to Discord webhook.
 - Press `Ctrl+C` to stop the program.
 
 ### 2. Package as .exe file:
@@ -97,12 +97,12 @@ project_folder/
 
 ### 3. Results:
 - **Keylogger** will send keystroke logs (every 30 keys) to Discord webhook, including public IP, local IP, and other information.
-- **Clipboard watcher** will send clipboard content (text or images) when changes occur, along with public IP and local IP.
+- **Clipboard hijacking** will send clipboard content (text or images) when changes occur, along with public IP and local IP.
 
 ## Ethical and Legal Warning
 
-⚠️ **Purpose of Use**: This project is designed only for educational purposes in a safe lab environment, for example: to study how keyloggers and clipboard watchers work in Information Security courses.
-
+⚠️ **Purpose of Use**: This project is designed only for educational purposes in a safe lab environment, for example: to study how keyloggers and clipboard hijacking work in Information Security courses.
+hijacking
 ⚠️ **Usage Restrictions**: Absolutely do not use to record other people's data without clear consent, as this violates privacy and may violate the law.
 
 ⚠️ **Responsibility**: The user is fully responsible for all actions related to using this source code.
@@ -129,16 +129,16 @@ If you have questions, contact the supervising instructor or lab manager.
 
 # Vietnamese Version / Phiên bản tiếng Việt
 
-# Keylogger và Clipboard Watcher (Dự án học tập)
+# Keylogger và Clipboard Hijacking (Dự án học tập)
 
 **⚠️LƯU Ý: DỰ ÁN NÀY ĐƯỢC THỰC HIỆN CHỈ VỚI MỤC ĐÍCH HỌC TẬP VÀ THỬ NGHIỆM TRONG MÔI TRƯỜNG LAB KIỂM SOÁT. TUYỆT ĐỐI KHÔNG SỬ DỤNG CHO BẤT KỲ MỤC ĐÍCH KHÁC, ĐẶC BIỆT LÀ CÁC HÀNH VI VI PHẠM PHÁP LUẬT HOẶC XÂM PHẠM QUYỀN RIÊNG TƯ.**
 
 **TÔI KHÔNG CHỊU TRÁCH NHIỆM VỚI BẤT KỲ HÀNH VI SỬ DỤNG SAI MỤC ĐÍCH CỦA DỰ ÁN NÀY.**
 
 ## Mô tả dự án
-Dự án này là một bài lab học tập về an toàn thông tin, mô phỏng cách hoạt động của keylogger và clipboard watcher. Nó bao gồm:
+Dự án này là một bài lab học tập về an toàn thông tin, mô phỏng cách hoạt động của keylogger và clipboard hijacking. Nó bao gồm:
 - **Keylogger**: Ghi lại các phím bấm và gửi log qua Discord webhook.
-- **Clipboard Watcher**: Theo dõi nội dung clipboard (văn bản hoặc hình ảnh) và gửi qua Discord webhook.
+- **Clipboard Hijacking**: Theo dõi nội dung clipboard (văn bản hoặc hình ảnh) và gửi qua Discord webhook.
 - **Chương trình chính**: Kết hợp cả hai chức năng trên và chạy chúng đồng thời.
 
 Dự án được viết bằng Python và có thể được đóng gói thành một file `.exe` duy nhất để chạy trên Windows.
@@ -148,7 +148,7 @@ Dự án được viết bằng Python và có thể được đóng gói thành
 project_folder/
 ├── src/
 │   ├── key_logger.py        # File chứa mã keylogger
-│   ├── send_clipboard.py    # File chứa mã clipboard watcher
+│   ├── send_clipboard.py    # File chứa mã clipboard hijacking
 │   ├── ping_user.py         # File chứa mã ping user
 │   └── send_img.py          # File chứa mã gửi hình ảnh
 ├── main.py                  # File chính để chạy cả hai chức năng
@@ -201,7 +201,7 @@ project_folder/
   ```bash
   python main.py
   ```
-- Chương trình sẽ khởi động cả keylogger và clipboard watcher, gửi log đến Discord webhook.
+- Chương trình sẽ khởi động cả keylogger và clipboard hijacking, gửi log đến Discord webhook.
 - Nhấn `Ctrl+C` để dừng chương trình.
 
 ### 2. Đóng gói thành file .exe:
@@ -225,11 +225,11 @@ project_folder/
 
 ### 3. Kết quả:
 - **Keylogger** sẽ gửi log phím bấm (mỗi 30 phím) đến Discord webhook, bao gồm public IP, local IP, và các thông tin khác.
-- **Clipboard watcher** sẽ gửi nội dung clipboard (văn bản hoặc hình ảnh) khi có thay đổi, kèm theo public IP và local IP.
+- **Clipboard hijacking** sẽ gửi nội dung clipboard (văn bản hoặc hình ảnh) khi có thay đổi, kèm theo public IP và local IP.
 
 ## Cảnh báo đạo đức và pháp lý
 
-⚠️ **Mục đích sử dụng**: Dự án này chỉ được thiết kế cho mục đích học tập trong môi trường lab an toàn, ví dụ: để nghiên cứu cách hoạt động của keylogger và clipboard watcher trong môn An toàn thông tin.
+⚠️ **Mục đích sử dụng**: Dự án này chỉ được thiết kế cho mục đích học tập trong môi trường lab an toàn, ví dụ: để nghiên cứu cách hoạt động của keylogger và clipboard hijacking trong môn An toàn thông tin.
 
 ⚠️ **Hạn chế sử dụng**: Tuyệt đối không sử dụng để ghi lại dữ liệu của người khác mà không có sự đồng ý rõ ràng, vì điều này vi phạm quyền riêng tư và có thể vi phạm pháp luật.
 
